@@ -17,6 +17,3 @@ The aim of these project:
 - Know hich paid apps have had the highest revenue and which have the highest price.
 
 - How many paid apps will recoup their development costs based on their sales revenue.
-
-
-This project is part of a lesson of 100 Days of Code - The Complete Python Pro Bootcamp by Dr.Angela Yu.
